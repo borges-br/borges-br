@@ -1,3 +1,8 @@
+<!--
+README.md para o perfil GitHub
+Repositório recomendado: borges-br/borges-br
+-->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Nathan%20Borges&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Diretor%20T%C3%A9cnico%20de%20TI%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20Infraestrutura&descAlignY=58&descSize=16" />
@@ -186,17 +191,18 @@ Gosto de construir soluções que tenham:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=borges-br&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borges-br&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borges-br&theme=tokyonight" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>Perfil técnico</strong><br>
+      Infraestrutura, automações, servidores, redes e desenvolvimento.
+    </td>
+    <td align="center">
+      <strong>Foco atual</strong><br>
+      TypeScript, Node.js, Docker, Linux, n8n, APIs e sistemas internos.
+    </td>
+  </tr>
+</table>
 
 </div>
 

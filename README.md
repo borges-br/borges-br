@@ -243,7 +243,7 @@ Gosto de construir soluções que tenham:
 
 <div align="right">
   <a href="https://instagram.com/_nabgs" target="_blank">
-    <img width="15%" src="./assets/loader-cat.svg" alt="Instagram" />
+    <img width="15%" src="./assets/cat.svg" alt="Instagram" />
   </a>
 </div>
 

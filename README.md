@@ -22,7 +22,9 @@ Repositório recomendado: borges-br/borges-br
 <br>
 
 <div align="center">
-  <img width="20%" src="./assets/profile-automation.svg" alt="Robo fofo" />
+  <a href="#" target="_blank">
+    <img width="20%" src="./assets/profile-automation.svg" alt="Robô" />
+  </a>
 </div>
 
 ---
@@ -239,9 +241,12 @@ Gosto de construir soluções que tenham:
 
 ---
 
-<div align="center">
-  <img width="15%" src="./assets/cat.svg" alt="Gatinho" />
+<div align="right">
+  <a href="https://instagram.com/_nabgs" target="_blank">
+    <img width="15%" src="./assets/loader-cat.svg" alt="Instagram" />
+  </a>
 </div>
+
 
 <div align="center">
 

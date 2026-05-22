@@ -19,6 +19,12 @@ Repositório recomendado: borges-br/borges-br
 
 </div>
 
+<br>
+
+<div align="center">
+  <img width="65%" src="./assets/profile-automation.svg" alt="Robo fofo" />
+</div>
+
 ---
 
 ## Sobre mim
@@ -232,6 +238,10 @@ Gosto de construir soluções que tenham:
 </div>
 
 ---
+
+<div align="right">
+  <img width="65%" src="./assets/cat.svg" alt="Gatinho" />
+</div>
 
 <div align="center">
 

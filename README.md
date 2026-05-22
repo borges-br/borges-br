@@ -22,7 +22,7 @@ Repositório recomendado: borges-br/borges-br
 <br>
 
 <div align="center">
-  <img width="30%" src="./assets/profile-automation.svg" alt="Robo fofo" />
+  <img width="20%" src="./assets/profile-automation.svg" alt="Robo fofo" />
 </div>
 
 ---
@@ -239,7 +239,7 @@ Gosto de construir soluções que tenham:
 
 ---
 
-<div align="right">
+<div align="center">
   <img width="15%" src="./assets/cat.svg" alt="Gatinho" />
 </div>
 
